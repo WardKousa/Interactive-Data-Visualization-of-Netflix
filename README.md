@@ -27,12 +27,12 @@ git clone https://github.com/WardKousa/netflix-dashboard.git
 cd netflix-dashboard
 ```
 
-# Optional: create virtual environment
-python -m venv venv```
+```Optional: create virtual environment
+python -m venv venv
 source venv/bin/activate  # Linux / Mac
 venv\Scripts\activate     # Windows
 ```
-```
-# Install dependencies
+
+```Install dependencies
 ```pip install -r requirements.txt
 ```
