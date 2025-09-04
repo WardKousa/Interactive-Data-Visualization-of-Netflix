@@ -1,5 +1,7 @@
 # Netflix Data Analysis Dashboard
 Video demo coming very soon!
+![Filters2](https://github.com/user-attachments/assets/f2b21017-ff5b-4fa0-8b42-4c69fe606924)
+
 
 Explore Netflix's catalog through an interactive, multi-tab Streamlit dashboard. Analyze content types, release trends, ratings, top countries, directors, genres, durations, PCA clustering, and genre co-occurrence networks.
 
